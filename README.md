@@ -40,7 +40,8 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone 
+git clone https://github.com/sammoonlighttstudios/Apple_website.git
+
 cd iphone-doc
 
 Install the project dependencies using npm:
